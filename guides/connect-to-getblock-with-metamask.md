@@ -2,10 +2,9 @@
 description: >-
   Learn how to set up custom RPC URL on MetaMask for faster, more reliable, and
   secure blockchain interactions.
-icon: circle
 ---
 
-# Connect to GetBlock with MetaMask
+# 🦊 Connect to GetBlock with MetaMask
 
 MetaMask is a blockchain wallet available as a mobile application and a browser extension. It allows you to interact with Ethereum-based decentralized applications (dApps) directly from your browser.&#x20;
 

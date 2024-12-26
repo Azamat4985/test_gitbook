@@ -6,7 +6,7 @@
 
 #### Request
 
-```
+```bash
 curl --location --request POST 'https://near.getblock.io/explorer/account/list/by-tx-count' \
 --header 'Content-Type: application/json' \
 --header 'Accept: application/json' \
@@ -19,7 +19,7 @@ curl --location --request POST 'https://near.getblock.io/explorer/account/list/b
 
 #### Response
 
-```
+```bash
 [
   {
     "account": "alice.near",

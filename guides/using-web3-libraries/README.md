@@ -2,10 +2,9 @@
 description: >-
   Learn how to interact with blockchain networks through GetBlock’s node
   infrastructure using popular web3 libraries.
-icon: circle
 ---
 
-# Using web3 libraries
+# 📚 Using web3 libraries
 
 Here you'll find step-by-step instructions on how to integrate popular developer libraries like **Web3.js,** **Ethers.js,** and others with GetBlock API.&#x20;
 
