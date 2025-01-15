@@ -1,8 +1,8 @@
 ---
+icon: file-lines
 description: >-
   To start using GetBlock's services, you need to register an account. You’ll be
   ready to go in just a few clicks!
-icon: file-lines
 ---
 
 # How to set up an account
@@ -44,7 +44,7 @@ During registration, you will be asked to accept our [Terms of Service](https://
 
 Once you've created an account and signed in, you'll be directed to the GetBlock **Dashboard**. Here, you can create endpoints, monitor your usage plan, and access statistics.
 
-<figure><img src="../.gitbook/assets/Docs_dashboard_bl.jpg" alt="GetBlock user dashboard for managing blockchain node access"><figcaption><p>GetBlock user Dashboard </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Docs_user_dashboard.svg" alt="GetBlock user dashboard for managing blockchain node access"><figcaption><p>GetBlock user Dashboard </p></figcaption></figure>
 
 ### Check your User ID
 
